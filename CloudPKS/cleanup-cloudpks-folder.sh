@@ -13,7 +13,7 @@
 # Load Private file for ORG and TOKEN
 # Contents of the file should be as follows:
 # export ORG="ORGANIZATION-ID-FROM-DEVELOPER-CENTER-OVERVIEW"
-# export TOKEN="YOUR-VMWARE-CLOUD-SEERVICES-API-TOKEN"
+# export TOKEN="YOUR-VMWARE-CLOUD-SERVICES-API-TOKEN"
 source ~/.cloud-pks-auth.txt
 # The line above will load the contents of the hidden .cloud-pks-auth.txt file
 # found in the user home directory ( In my case, this is /Users/bazbill )
