@@ -8,4 +8,4 @@ The purpose of these scripts is to make things easier for me (and my team) when 
 
 ## Structure
 
-As I write scripts, I'll place them in appropriately named folders here in this repo. My initial script is [cleanup-cloudpks-folder.sh](https://raw.githubusercontent.com/burkeazbill/PKS-Scripts/master/CloudPKS/cleanup-cloudpks-folder), found in the CloudPKS folder.
+As I write scripts, I'll place them in appropriately named folders here in this repo. My initial script is [cleanup-cloudpks-folder.sh](https://github.com/burkeazbill/PKS-Scripts/blob/master/CloudPKS/cleanup-cloudpks-folder.sh), found in the CloudPKS folder.
